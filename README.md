@@ -21,7 +21,7 @@ An introduction for data wrangling skill using Numpy , pandas and matplotlib for
 Clone this repository to your local machine.
 
 ```pythoon
-$ git clone https://github.com/solutions-machine-learning/data_analysis.git
+$ git clone https://github.com/machine-learning-solutions/data_analysis.git
 ```
 
 Once downloaded, activate your virtual environment and run by 
